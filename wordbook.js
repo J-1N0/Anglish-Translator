@@ -4703,5 +4703,6 @@ var wordbook = {
     "oxygen": "breath of life",
     "oxymoron": "sharpdull calque",
     "oyster": "clam",
+    "people": "folk",
 
 }
